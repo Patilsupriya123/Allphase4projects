@@ -8,7 +8,8 @@ import { ChildComponent } from './child/child.component';
 @NgModule({
   declarations: [
     AppComponent,
-    ChildComponent
+    ChildComponent,
+    
   ],
   imports: [
     BrowserModule,
